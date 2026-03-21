@@ -1,4 +1,4 @@
-# 
+
 Live chat ready. Type /exit to stop.
 
 Spaceman:  What’s up bro? How are you?
